@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":["DerivesCopy","ImplementsDebug","IsExternal","IsIncomplete","IsPtr","IsVolatile"]};
